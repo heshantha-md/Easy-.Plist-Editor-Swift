@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SampleArrayVariable</key>
+	<array/>
+	<key>SampleDictonaryVariable</key>
+	<dict/>
+	<key>SampleBooleanVariable</key>
+	<false/>
+	<key>SampleDataVariable</key>
+	<data></data>
+	<key>SampleDateVariable</key>
+	<date>2017-08-30T04:04:01Z</date>
+	<key>SampleNumberVariable</key>
+	<integer>0</integer>
+	<key>SampleStringVariable</key>
+	<string></string>
+</dict>
+</plist>
